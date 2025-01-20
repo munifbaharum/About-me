@@ -23,7 +23,7 @@
     <section>
         <h2>Connect With Me</h2>
         <p>Feel free to reach out if you have any questions or would like to discuss any project, tech concept, or collaboration opportunity. I'm always happy to connect with like-minded people in the tech community!</p>
-        <p>If you’d like to get in touch or have any questions, feel free to email me at:</p>
+        <p>If you’d like to get in touch or have any questions, you can email me at:</p>
         <p><strong>Email:</strong> <a href="munifbaharum257@gmail.com">munifbaharum257@gmail.com</a></p>
         </section>
     <footer>
