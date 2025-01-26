@@ -50,7 +50,7 @@
         <p>Feel free to reach out if you have any questions or would like to discuss a project, tech concept, or collaboration opportunity. I'm always eager to connect with like-minded people in the tech community!</p>
         <p>If you'd like to get in touch, you can email me at:</p>
         <p><strong>Email:</strong> <a href="mailto:munifbaharum257@gmail.com">munifbaharum257@gmail.com</a></p>
-        <p>You can also connect with me on <a href="https://www.linkedin.com/in/munif-baharum" target="_blank">LinkedIn</a>.</p>
+        <p>You can also connect with me on <a href="https://www.linkedin.com/in/munif-baharum-1a2841312/ target="_blank">LinkedIn</a>.</p>
     </section>
     <!-- Footer Section -->
     <footer>
