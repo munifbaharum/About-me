@@ -3,16 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Munif Baharum - GitHub Profile</title>
 </head>
 <body>
     <!-- Header Section -->
     <header>
         <h1>About Me</h1>
     </header>
-    <!-- Profile Picture Section -->
-    <section id="profile-picture">
-        <img src="your-profile-picture.jpg" alt="Munif Baharum" style="width:150px; border-radius:50%;">
     </section>
     <!-- Summary Section -->
     <section>
@@ -23,12 +19,12 @@
     <section id="education">
         <h2>Education</h2>
         <p><strong>Sekolah Menengah Teknik Terengganu (TEKTRA)</strong><br>
-           <em>Pengajian Kejuruteraan Awam</em>
+           <em>Pengajian Kejuruteraan Awam</em><br>
            <em>Sijil Pelajaran Malaysia : 6A</em></p>
         <p><strong>Kolej Matrikulasi Pahang (KMPh)</strong><br>
            <em>Physical Science (CGPA : 3.96)</em></p>
         <p><strong>Universiti Teknologi Malaysia (UTM)</strong><br>
-           <em>Bachelor of Science in Network & Security</em> (Expected graduation: 2028)</p>
+           <em>Bachelor of Computer Science (Computer Network & Security) with Honours</em> (Expected graduation: 2028)</p>
     </section>
     <section id="courses">
         <h2>Relevant Courses</h2>
