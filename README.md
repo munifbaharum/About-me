@@ -40,7 +40,7 @@
         <h2>What You’ll Find Here</h2>
         <ul>
             <li><strong>Projects & Code</strong>: A variety of coding exercises and personal projects, primarily in <strong>C++</strong>, which showcase my learning process.</li>
-            <li><strong>Cybersecurity Concepts</strong>: Exploring network security, ethical hacking, and encryption techniques.</li>
+            <li><strong>Technology Concepts</strong>: Exploring the latest advancements in <strong>Artificial Intelligence (AI)</strong>, <strong>Machine Learning</strong>, and the <strong>Internet of Things (IoT)</strong>.</li>
             <li><strong>Learning Resources</strong>: Curated guides, tutorials, and links to valuable resources that I find helpful in my studies.</li>
         </ul>
     </section>
