@@ -3,15 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Munif Baharum - GitHub Profile</title>
 </head>
 <body>
+    <!-- Header Section -->
     <header>
         <h1>About Me</h1>
     </header>
-    <section>
-        <p>Hi there! I'm Munif Baharum, a student at <strong>Universiti Teknologi Malaysia (UTM)</strong>, currently studying <strong>Network & Security</strong>. As I dive deeper into the world of technology, I'm developing a strong passion for <strong>coding</strong> and <strong>cybersecurity</strong>. I'm committed to learning and improving my skills in <strong>C++</strong>, <strong>network security</strong>, and other emerging technologies.</p>
-        <p>This repository serves as a collection of my personal projects, coding experiments, and learning resources as I work on building a solid foundation in this field. Whether it's a simple program or a complex cybersecurity concept, I’m always eager to explore and share my journey.</p>
+    <!-- Profile Picture Section -->
+    <section id="profile-picture">
+        <img src="your-profile-picture.jpg" alt="Munif Baharum" style="width:150px; border-radius:50%;">
     </section>
+    <!-- Summary Section -->
+    <section>
+        <p>Hi there! I'm <strong>Munif Baharum</strong>, a student at <strong>Universiti Teknologi Malaysia (UTM)</strong>, currently studying <strong>Network & Security</strong>. I have a deep passion for <strong>coding</strong> and <strong>cybersecurity</strong>, and I’m constantly learning and improving my skills in <strong>C++</strong>, <strong>network security</strong>, and other emerging technologies.</p>
+        <p>This repository showcases my personal projects, coding experiments, and resources related to my learning journey. Whether it's coding challenges or diving into complex cybersecurity topics, I'm committed to advancing in this field.</p>
+    </section>
+    <!-- Education and Courses Section -->
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>Sekolah Menengah Teknik Terengganu (TEKTRA)</strong><br>
+           <em>Pengajian Kejuruteraan Awam</em>
+           <em>Sijil Pelajaran Malaysia : 6A</em></p>
+        <p><strong>Kolej Matrikulasi Pahang (KMPh)</strong><br>
+           <em>Physical Science (CGPA : 3.96)</em></p>
+        <p><strong>Universiti Teknologi Malaysia (UTM)</strong><br>
+           <em>Bachelor of Science in Network & Security</em> (Expected graduation: 2028)</p>
+    </section>
+    <section id="courses">
+        <h2>Relevant Courses</h2>
+        <ul>
+            <li><strong>Programming Technique I</strong></li>
+            <li><strong>Technology & Information System</strong></li>
+            <li><strong>Digital Logic</strong></li>
+            <li><strong>Discrete Structure</strong></li>
+        </ul>
+    </section>
+    <!-- What You'll Find Section -->
     <section>
         <h2>What You’ll Find Here</h2>
         <ul>
@@ -20,12 +48,15 @@
             <li><strong>Learning Resources</strong>: Curated guides, tutorials, and links to valuable resources that I find helpful in my studies.</li>
         </ul>
     </section>
-    <section>
+    <!-- Connect With Me Section -->
+    <section id="connect">
         <h2>Connect With Me</h2>
-        <p>Feel free to reach out if you have any questions or would like to discuss any project, tech concept, or collaboration opportunity. I'm always happy to connect with like-minded people in the tech community!</p>
-        <p>If you’d like to get in touch or have any questions, you can email me at:</p>
-        <p><strong>Email:</strong> <a href="munifbaharum257@gmail.com">munifbaharum257@gmail.com</a></p>
-        </section>
+        <p>Feel free to reach out if you have any questions or would like to discuss a project, tech concept, or collaboration opportunity. I'm always eager to connect with like-minded people in the tech community!</p>
+        <p>If you'd like to get in touch, you can email me at:</p>
+        <p><strong>Email:</strong> <a href="mailto:munifbaharum257@gmail.com">munifbaharum257@gmail.com</a></p>
+        <p>You can also connect with me on <a href="https://www.linkedin.com/in/munifbaharum" target="_blank">LinkedIn</a>.</p>
+    </section>
+    <!-- Footer Section -->
     <footer>
         <p>&copy; 2025 by Munif Baharum. All rights reserved.</p>
     </footer>
