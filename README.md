@@ -52,9 +52,5 @@
         <p><strong>Email:</strong> <a href="mailto:munifbaharum257@gmail.com">munifbaharum257@gmail.com</a></p>
         <p>You can also connect with me on <a href="https://www.linkedin.com/in/munif-baharum-1a2841312/ target="_blank">LinkedIn</a>.</p>
     </section>
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2025 by Munif Baharum. All rights reserved.</p>
-    </footer>
 </body>
 </html>
